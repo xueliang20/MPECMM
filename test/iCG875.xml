@@ -196,7 +196,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_mal_L_c" sboTerm="SBO:0000247" id="M_mal_L_c" name="L-Malate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_mal_L_c" sboTerm="SBO:0000247" id="M_mal_L_c" name="L-Malate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H4O5"/>
       <species metaid="meta_M_nad_c" sboTerm="SBO:0000247" id="M_nad_c" name="Nicotinamide adenine dinucleotide" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C21H26N7O14P2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -302,7 +302,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_acon_C_c" sboTerm="SBO:0000247" id="M_acon_C_c" name="cis-Aconitate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_acon_C_c" sboTerm="SBO:0000247" id="M_acon_C_c" name="cis-Aconitate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H3O6">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_acon_C_c">
@@ -675,8 +675,8 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cyst_L_c" sboTerm="SBO:0000247" id="M_cyst_L_c" name="L-Cystathionine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_hcys_L_c" sboTerm="SBO:0000247" id="M_hcys_L_c" name="L-Homocysteine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_cyst_L_c" sboTerm="SBO:0000247" id="M_cyst_L_c" name="L-Cystathionine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C7H14N2O4S"/>
+      <species metaid="meta_M_hcys_L_c" sboTerm="SBO:0000247" id="M_hcys_L_c" name="L-Homocysteine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H9NO2S"/>
       <species metaid="meta_M_nh4_c" sboTerm="SBO:0000247" id="M_nh4_c" name="Ammonium" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="1" fbc:chemicalFormula="H4N">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -692,8 +692,8 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_arab_L_e" sboTerm="SBO:0000247" id="M_arab_L_e" name="L-Arabinose" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_arab_L_c" sboTerm="SBO:0000247" id="M_arab_L_c" name="L-Arabinose" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_arab_L_e" sboTerm="SBO:0000247" id="M_arab_L_e" name="L-Arabinose" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O5"/>
+      <species metaid="meta_M_arab_L_c" sboTerm="SBO:0000247" id="M_arab_L_c" name="L-Arabinose" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O5"/>
       <species metaid="meta_M_trnaala_c" sboTerm="SBO:0000247" id="M_trnaala_c" name="tRNA(Ala)" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -709,7 +709,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_ala_L_c" sboTerm="SBO:0000247" id="M_ala_L_c" name="L-Alanine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_ala_L_c" sboTerm="SBO:0000247" id="M_ala_L_c" name="L-Alanine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO2"/>
       <species metaid="meta_M_alatrna_c" sboTerm="SBO:0000247" id="M_alatrna_c" name="L-Alanyl-tRNA(Ala)" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="1" fbc:chemicalFormula="C3H6NOR">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -854,8 +854,8 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_asn_L_c" sboTerm="SBO:0000247" id="M_asn_L_c" name="L-Asparagine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_asp_L_c" sboTerm="SBO:0000247" id="M_asp_L_c" name="L-Aspartate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_asn_L_c" sboTerm="SBO:0000247" id="M_asn_L_c" name="L-Asparagine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H8N2O3"/>
+      <species metaid="meta_M_asp_L_c" sboTerm="SBO:0000247" id="M_asp_L_c" name="L-Aspartate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H6NO4"/>
       <species metaid="meta_M_prpp_c" sboTerm="SBO:0000247" id="M_prpp_c" name="5-Phospho-alpha-D-ribose 1-diphosphate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-5" fbc:chemicalFormula="C5H8O14P3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -976,7 +976,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_glu_L_c" sboTerm="SBO:0000247" id="M_glu_L_c" name="L-Glutamate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_glu_L_c" sboTerm="SBO:0000247" id="M_glu_L_c" name="L-Glutamate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H8NO4"/>
       <species metaid="meta_M_orn_c" sboTerm="SBO:0000247" id="M_orn_c" name="Ornithine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="1" fbc:chemicalFormula="C5H13N2O2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -1007,7 +1007,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_citr_L_c" sboTerm="SBO:0000247" id="M_citr_L_c" name="L-Citrulline" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_citr_L_c" sboTerm="SBO:0000247" id="M_citr_L_c" name="L-Citrulline" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H13N3O3"/>
       <species metaid="meta_M_argsuc_c" sboTerm="SBO:0000247" id="M_argsuc_c" name="N(omega)-(L-Arginino)succinate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C10H17N4O6">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -1038,7 +1038,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_arg_L_c" sboTerm="SBO:0000247" id="M_arg_L_c" name="L-Arginine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_arg_L_c" sboTerm="SBO:0000247" id="M_arg_L_c" name="L-Arginine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H15N4O2"/>
       <species metaid="meta_M_trnaarg_c" sboTerm="SBO:0000247" id="M_trnaarg_c" name="tRNA(Arg)" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -1219,8 +1219,8 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_trp_L_e" sboTerm="SBO:0000247" id="M_trp_L_e" name="L-Tryptophan" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_trp_L_c" sboTerm="SBO:0000247" id="M_trp_L_c" name="L-Tryptophan" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_trp_L_e" sboTerm="SBO:0000247" id="M_trp_L_e" name="L-Tryptophan" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C11H12N2O2"/>
+      <species metaid="meta_M_trp_L_c" sboTerm="SBO:0000247" id="M_trp_L_c" name="L-Tryptophan" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C11H12N2O2"/>
       <species metaid="meta_M_aspsa_c" sboTerm="SBO:0000247" id="M_aspsa_c" name="L-Aspartate 4-semialdehyde" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H7NO3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -1340,7 +1340,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_8aonn_c" sboTerm="SBO:0000247" id="M_8aonn_c" name="8-Amino-7-oxononanoate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_8aonn_c" sboTerm="SBO:0000247" id="M_8aonn_c" name="8-Amino-7-oxononanoate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C9H17NO3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_8aonn_c">
@@ -1445,7 +1445,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_dad_5_c" sboTerm="SBO:0000247" id="M_dad_5_c" name="5-Deoxyadenosine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_dad_5_c" sboTerm="SBO:0000247" id="M_dad_5_c" name="5-Deoxyadenosine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H13N5O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_dad_5_c">
@@ -1460,9 +1460,9 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_met_L_c" sboTerm="SBO:0000247" id="M_met_L_c" name="L-Methionine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_leu_L_e" sboTerm="SBO:0000247" id="M_leu_L_e" name="L-Leucine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_leu_L_c" sboTerm="SBO:0000247" id="M_leu_L_c" name="L-Leucine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_met_L_c" sboTerm="SBO:0000247" id="M_met_L_c" name="L-Methionine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO2S"/>
+      <species metaid="meta_M_leu_L_e" sboTerm="SBO:0000247" id="M_leu_L_e" name="L-Leucine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H13NO2"/>
+      <species metaid="meta_M_leu_L_c" sboTerm="SBO:0000247" id="M_leu_L_c" name="L-Leucine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H13NO2"/>
       <species metaid="meta_M_dha_c" sboTerm="SBO:0000247" id="M_dha_c" name="Dihydroxyacetone" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H6O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -1478,7 +1478,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_gln_L_c" sboTerm="SBO:0000247" id="M_gln_L_c" name="L-Glutamine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_gln_L_c" sboTerm="SBO:0000247" id="M_gln_L_c" name="L-Glutamine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10N2O3"/>
       <species metaid="meta_M_ctp_c" sboTerm="SBO:0000247" id="M_ctp_c" name="CTP" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-4" fbc:chemicalFormula="C9H12N3O14P3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -2249,7 +2249,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_ser_L_c" sboTerm="SBO:0000247" id="M_ser_L_c" name="L-Serine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_ser_L_c" sboTerm="SBO:0000247" id="M_ser_L_c" name="L-Serine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO3"/>
       <species metaid="meta_M_acser_c" sboTerm="SBO:0000247" id="M_acser_c" name="O-Acetyl-L-serine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H9NO4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -2396,7 +2396,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cys_L_c" sboTerm="SBO:0000247" id="M_cys_L_c" name="L-Cysteine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_cys_L_c" sboTerm="SBO:0000247" id="M_cys_L_c" name="L-Cysteine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO2S"/>
       <species metaid="meta_M_trnacys_c" sboTerm="SBO:0000247" id="M_trnacys_c" name="tRNA(Cys)" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -2537,7 +2537,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_26dap_LL_c" sboTerm="SBO:0000247" id="M_26dap_LL_c" name="LL-2,6-Diaminoheptanedioate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_26dap_LL_c" sboTerm="SBO:0000247" id="M_26dap_LL_c" name="LL-2,6-Diaminoheptanedioate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C7H14N2O4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_26dap_LL_c">
@@ -2583,7 +2583,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_fum_e" sboTerm="SBO:0000247" id="M_fum_e" name="Fumarate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_fum_e" sboTerm="SBO:0000247" id="M_fum_e" name="Fumarate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H2O4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_fum_e">
@@ -4321,7 +4321,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_glu_L_e" sboTerm="SBO:0000247" id="M_glu_L_e" name="L-Glutamate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_glu_L_e" sboTerm="SBO:0000247" id="M_glu_L_e" name="L-Glutamate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H8NO4"/>
       <species metaid="meta_M_glyc_R_c" sboTerm="SBO:0000247" id="M_glyc_R_c" name="(R)-Glycerate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species metaid="meta_M_3pg_c" sboTerm="SBO:0000247" id="M_3pg_c" name="3-Phospho-D-glycerate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C3H4O7P">
         <annotation>
@@ -4730,7 +4730,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_his_L_c" sboTerm="SBO:0000247" id="M_his_L_c" name="L-Histidine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_his_L_c" sboTerm="SBO:0000247" id="M_his_L_c" name="L-Histidine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H9N3O2"/>
       <species metaid="meta_M_prbatp_c" sboTerm="SBO:0000247" id="M_prbatp_c" name="1-(5-Phosphoribosyl)-ATP" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-6" fbc:chemicalFormula="C15H19N5O20P4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -4821,7 +4821,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_hom_L_c" sboTerm="SBO:0000247" id="M_hom_L_c" name="L-Homoserine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_hom_L_c" sboTerm="SBO:0000247" id="M_hom_L_c" name="L-Homoserine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H9NO3"/>
       <species metaid="meta_M_gua_c" sboTerm="SBO:0000247" id="M_gua_c" name="Guanine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H5N5O">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -4867,7 +4867,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_ile_L_c" sboTerm="SBO:0000247" id="M_ile_L_c" name="L-Isoleucine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_ile_L_c" sboTerm="SBO:0000247" id="M_ile_L_c" name="L-Isoleucine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H13NO2"/>
       <species metaid="meta_M_iletrna_c" sboTerm="SBO:0000247" id="M_iletrna_c" name="L-Isoleucyl-tRNA(Ile)" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="1" fbc:chemicalFormula="C6H12NOR">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -4974,7 +4974,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_val_L_c" sboTerm="SBO:0000247" id="M_val_L_c" name="L-Valine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_val_L_c" sboTerm="SBO:0000247" id="M_val_L_c" name="L-Valine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO2"/>
       <species metaid="meta_M_4mop_c" sboTerm="SBO:0000247" id="M_4mop_c" name="4-Methyl-2-oxopentanoate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C6H9O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -5114,7 +5114,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_lac_L_c" sboTerm="SBO:0000247" id="M_lac_L_c" name="L-Lactate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_lac_L_c" sboTerm="SBO:0000247" id="M_lac_L_c" name="L-Lactate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H5O3"/>
       <species metaid="meta_M_3c3hmp_c" sboTerm="SBO:0000247" id="M_3c3hmp_c" name="3-Carboxy-3-hydroxy-4-methylpentanoate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C7H10O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -5317,9 +5317,9 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_lys_L_c" sboTerm="SBO:0000247" id="M_lys_L_c" name="L-Lysine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_lys_L_e" sboTerm="SBO:0000247" id="M_lys_L_e" name="L-Lysine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_arg_L_e" sboTerm="SBO:0000247" id="M_arg_L_e" name="L-Arginine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_lys_L_c" sboTerm="SBO:0000247" id="M_lys_L_c" name="L-Lysine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H15N2O2"/>
+      <species metaid="meta_M_lys_L_e" sboTerm="SBO:0000247" id="M_lys_L_e" name="L-Lysine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H15N2O2"/>
+      <species metaid="meta_M_arg_L_e" sboTerm="SBO:0000247" id="M_arg_L_e" name="L-Arginine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H15N4O2"/>
       <species metaid="meta_M_orn_e" sboTerm="SBO:0000247" id="M_orn_e" name="Ornithine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="1" fbc:chemicalFormula="C5H13N2O2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -5544,7 +5544,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_met_L_e" sboTerm="SBO:0000247" id="M_met_L_e" name="L-Methionine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_met_L_e" sboTerm="SBO:0000247" id="M_met_L_e" name="L-Methionine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO2S"/>
       <species metaid="meta_M_trnamet_c" sboTerm="SBO:0000247" id="M_trnamet_c" name="tRNA(Met)" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -6399,7 +6399,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pro_L_c" sboTerm="SBO:0000247" id="M_pro_L_c" name="L-Proline" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_pro_L_c" sboTerm="SBO:0000247" id="M_pro_L_c" name="L-Proline" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H9NO2"/>
       <species metaid="meta_M_tre6p_c" sboTerm="SBO:0000247" id="M_tre6p_c" name="alpha,alpha-Trehalose 6-phosphate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C12H21O14P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -6446,7 +6446,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_pant_R_c" sboTerm="SBO:0000247" id="M_pant_R_c" name="(R)-Pantoate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_ala_B_c" sboTerm="SBO:0000247" id="M_ala_B_c" name="beta-Alanine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_ala_B_c" sboTerm="SBO:0000247" id="M_ala_B_c" name="beta-Alanine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_ala_B_c">
@@ -6476,7 +6476,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_phe_L_c" sboTerm="SBO:0000247" id="M_phe_L_c" name="L-Phenylalanine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_phe_L_c" sboTerm="SBO:0000247" id="M_phe_L_c" name="L-Phenylalanine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C9H11NO2"/>
       <species metaid="meta_M_34hpp_c" sboTerm="SBO:0000247" id="M_34hpp_c" name="3-(4-Hydroxyphenyl)pyruvate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C9H7O4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -6492,7 +6492,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_tyr_L_c" sboTerm="SBO:0000247" id="M_tyr_L_c" name="L-Tyrosine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_tyr_L_c" sboTerm="SBO:0000247" id="M_tyr_L_c" name="L-Tyrosine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C9H11NO3"/>
       <species metaid="meta_M_aacoa_c" sboTerm="SBO:0000247" id="M_aacoa_c" name="Acetoacetyl-CoA" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-4" fbc:chemicalFormula="C25H36N7O18P3S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -7041,7 +7041,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_acmum_e" sboTerm="SBO:0000247" id="M_acmum_e" name="N-Acetylmuramate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_acmum_e" sboTerm="SBO:0000247" id="M_acmum_e" name="N-Acetylmuramate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C11H18NO8">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_acmum_e">
@@ -7503,7 +7503,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_acgam_e" sboTerm="SBO:0000247" id="M_acgam_e" name="N-Acetyl-D-glucosamine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_acgam_e" sboTerm="SBO:0000247" id="M_acgam_e" name="N-Acetyl-D-glucosamine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C8H15NO6">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_acgam_e">
@@ -7596,7 +7596,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pser_L_c" sboTerm="SBO:0000247" id="M_pser_L_c" name="O-Phospho-L-serine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_pser_L_c" sboTerm="SBO:0000247" id="M_pser_L_c" name="O-Phospho-L-serine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H6NO6P"/>
       <species metaid="meta_M_ohpb_c" sboTerm="SBO:0000247" id="M_ohpb_c" name="2-Oxo-3-hydroxy-4-phosphobutanoate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C4H4O8P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -7790,7 +7790,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_thr_L_c" sboTerm="SBO:0000247" id="M_thr_L_c" name="L-Threonine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_thr_L_c" sboTerm="SBO:0000247" id="M_thr_L_c" name="L-Threonine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H9NO3"/>
       <species metaid="meta_M_4ampm_c" sboTerm="SBO:0000247" id="M_4ampm_c" name="4-Amino-2-methyl-5-phosphomethylpyrimidine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C6H8N3O4P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -8510,7 +8510,7 @@
       </species>
       <species metaid="meta_M_cdpdag_c" sboTerm="SBO:0000247" id="M_cdpdag_c" name="CDPdiacylglycerol " compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-100" fbc:chemicalFormula="C2286H3998N150O750P100"/>
       <species metaid="meta_M_apg_c" sboTerm="SBO:0000247" id="M_apg_c" name="apg" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C40.2H75.208O13P2"/>
-      <species metaid="meta_M_rbl_L_c" sboTerm="SBO:0000247" id="M_rbl_L_c" name="rbl-L" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_rbl_L_c" sboTerm="SBO:0000247" id="M_rbl_L_c" name="rbl-L" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O5"/>
       <species metaid="meta_M_23dhacoa_c" sboTerm="SBO:0000247" id="M_23dhacoa_c" name="23dhacoa" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-5" fbc:chemicalFormula="C27H37N7O19P3S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -8615,8 +8615,8 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_lyx_L_c" sboTerm="SBO:0000247" id="M_lyx_L_c" name="L-Lyxose" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_xylu_L_c" sboTerm="SBO:0000247" id="M_xylu_L_c" name="L-Xylulose" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_lyx_L_c" sboTerm="SBO:0000247" id="M_lyx_L_c" name="L-Lyxose" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O5"/>
+      <species metaid="meta_M_xylu_L_c" sboTerm="SBO:0000247" id="M_xylu_L_c" name="L-Xylulose" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O5"/>
       <species metaid="meta_M_2pglyc_c" sboTerm="SBO:0000247" id="M_2pglyc_c" name="2-Phosphoglycolate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C2H2O6P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -9440,7 +9440,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_ala_L_e" sboTerm="SBO:0000247" id="M_ala_L_e" name="L-Alanine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_ala_L_e" sboTerm="SBO:0000247" id="M_ala_L_e" name="L-Alanine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO2"/>
       <species metaid="meta_M_alaala_e" sboTerm="SBO:0000247" id="M_alaala_e" name="D-Alanyl-D-alanine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H12N2O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -9456,7 +9456,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_ala_B_e" sboTerm="SBO:0000247" id="M_ala_B_e" name="beta-Alanine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_ala_B_e" sboTerm="SBO:0000247" id="M_ala_B_e" name="beta-Alanine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_ala_B_e">
@@ -9487,8 +9487,8 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_asn_L_e" sboTerm="SBO:0000247" id="M_asn_L_e" name="L-Asparagine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_asp_L_e" sboTerm="SBO:0000247" id="M_asp_L_e" name="L-Aspartate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_asn_L_e" sboTerm="SBO:0000247" id="M_asn_L_e" name="L-Asparagine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H8N2O3"/>
+      <species metaid="meta_M_asp_L_e" sboTerm="SBO:0000247" id="M_asp_L_e" name="L-Aspartate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H6NO4"/>
       <species metaid="meta_M_cgly_e" sboTerm="SBO:0000247" id="M_cgly_e" name="Cys-Gly" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10N2O3S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -9593,7 +9593,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cys_L_e" sboTerm="SBO:0000247" id="M_cys_L_e" name="L-Cysteine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_cys_L_e" sboTerm="SBO:0000247" id="M_cys_L_e" name="L-Cysteine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO2S"/>
       <species metaid="meta_M_cytd_e" sboTerm="SBO:0000247" id="M_cytd_e" name="Cytidine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C9H13N3O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -9609,7 +9609,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_dad_2_e" sboTerm="SBO:0000247" id="M_dad_2_e" name="Deoxyadenosine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_dad_2_e" sboTerm="SBO:0000247" id="M_dad_2_e" name="Deoxyadenosine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H13N5O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_dad_2_e">
@@ -9969,7 +9969,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_gam_e" sboTerm="SBO:0000247" id="M_gam_e" name="D-Glucosamine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_gam_e" sboTerm="SBO:0000247" id="M_gam_e" name="D-Glucosamine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H14NO5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_gam_e">
@@ -10044,7 +10044,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_gln_L_e" sboTerm="SBO:0000247" id="M_gln_L_e" name="L-Glutamine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_gln_L_e" sboTerm="SBO:0000247" id="M_gln_L_e" name="L-Glutamine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10N2O3"/>
       <species metaid="meta_M_gly_e" sboTerm="SBO:0000247" id="M_gly_e" name="Glycine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C2H5NO2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -10166,8 +10166,8 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_his_L_e" sboTerm="SBO:0000247" id="M_his_L_e" name="L-Histidine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_hom_L_e" sboTerm="SBO:0000247" id="M_hom_L_e" name="L-Homoserine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_his_L_e" sboTerm="SBO:0000247" id="M_his_L_e" name="L-Histidine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H9N3O2"/>
+      <species metaid="meta_M_hom_L_e" sboTerm="SBO:0000247" id="M_hom_L_e" name="L-Homoserine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H9NO3"/>
       <species metaid="meta_M_hxan_e" sboTerm="SBO:0000247" id="M_hxan_e" name="Hypoxanthine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H4N4O">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -10183,7 +10183,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_ile_L_e" sboTerm="SBO:0000247" id="M_ile_L_e" name="L-Isoleucine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_ile_L_e" sboTerm="SBO:0000247" id="M_ile_L_e" name="L-Isoleucine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H13NO2"/>
       <species metaid="meta_M_imp_e" sboTerm="SBO:0000247" id="M_imp_e" name="IMP" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C10H11N4O8P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -10245,8 +10245,8 @@
         </annotation>
       </species>
       <species metaid="meta_M_lac_D_e" sboTerm="SBO:0000247" id="M_lac_D_e" name="D-Lactate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_lac_L_e" sboTerm="SBO:0000247" id="M_lac_L_e" name="L-Lactate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_mal_L_e" sboTerm="SBO:0000247" id="M_mal_L_e" name="L-Malate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_lac_L_e" sboTerm="SBO:0000247" id="M_lac_L_e" name="L-Lactate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H5O3"/>
+      <species metaid="meta_M_mal_L_e" sboTerm="SBO:0000247" id="M_mal_L_e" name="L-Malate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H4O5"/>
       <species metaid="meta_M_man6p_e" sboTerm="SBO:0000247" id="M_man6p_e" name="D-Mannose 6-phosphate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C6H11O9P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -10382,7 +10382,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_phe_L_e" sboTerm="SBO:0000247" id="M_phe_L_e" name="L-Phenylalanine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_phe_L_e" sboTerm="SBO:0000247" id="M_phe_L_e" name="L-Phenylalanine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C9H11NO2"/>
       <species metaid="meta_M_pheme_e" sboTerm="SBO:0000247" id="M_pheme_e" name="Protoheme" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C34H30FeN4O4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -10414,7 +10414,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pro_L_e" sboTerm="SBO:0000247" id="M_pro_L_e" name="L-Proline" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_pro_L_e" sboTerm="SBO:0000247" id="M_pro_L_e" name="L-Proline" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H9NO2"/>
       <species metaid="meta_M_progly_e" sboTerm="SBO:0000247" id="M_progly_e" name="L-Prolinylglycine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C7H12N2O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -10459,8 +10459,8 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_ser_L_e" sboTerm="SBO:0000247" id="M_ser_L_e" name="L-Serine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_skm_e" sboTerm="SBO:0000247" id="M_skm_e" name="Shikimate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_ser_L_e" sboTerm="SBO:0000247" id="M_ser_L_e" name="L-Serine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO3"/>
+      <species metaid="meta_M_skm_e" sboTerm="SBO:0000247" id="M_skm_e" name="Shikimate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C7H9O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_skm_e">
@@ -10520,7 +10520,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_thr_L_e" sboTerm="SBO:0000247" id="M_thr_L_e" name="L-Threonine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_thr_L_e" sboTerm="SBO:0000247" id="M_thr_L_e" name="L-Threonine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H9NO3"/>
       <species metaid="meta_M_thymd_e" sboTerm="SBO:0000247" id="M_thymd_e" name="Thymidine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H14N2O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -10596,8 +10596,8 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_tyr_L_e" sboTerm="SBO:0000247" id="M_tyr_L_e" name="L-Tyrosine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_uacgam_e" sboTerm="SBO:0000247" id="M_uacgam_e" name="UDP-N-acetyl-D-glucosamine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_tyr_L_e" sboTerm="SBO:0000247" id="M_tyr_L_e" name="L-Tyrosine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C9H11NO3"/>
+      <species metaid="meta_M_uacgam_e" sboTerm="SBO:0000247" id="M_uacgam_e" name="UDP-N-acetyl-D-glucosamine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C17H25N3O17P2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_uacgam_e">
@@ -10717,7 +10717,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_val_L_e" sboTerm="SBO:0000247" id="M_val_L_e" name="L-Valine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_val_L_e" sboTerm="SBO:0000247" id="M_val_L_e" name="L-Valine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO2"/>
       <species metaid="meta_M_xan_e" sboTerm="SBO:0000247" id="M_xan_e" name="Xanthine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H4N4O2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -10967,7 +10967,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_metsox_S_L_c" sboTerm="SBO:0000247" id="M_metsox_S_L_c" name="L-Methionine Sulfoxide" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_metsox_S_L_c" sboTerm="SBO:0000247" id="M_metsox_S_L_c" name="L-Methionine Sulfoxide" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO3S"/>
       <species metaid="meta_M_lgt_S_c" sboTerm="SBO:0000247" id="M_lgt_S_c" name="(R)-S-Lactoylglutathione" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species metaid="meta_M_lac_D_c" sboTerm="SBO:0000247" id="M_lac_D_c" name="D-Lactate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species metaid="meta_M_mthgxl_c" sboTerm="SBO:0000247" id="M_mthgxl_c" name="Methylglyoxal" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H4O2">
@@ -11300,7 +11300,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_dad_2_c" sboTerm="SBO:0000247" id="M_dad_2_c" name="Deoxyadenosine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_dad_2_c" sboTerm="SBO:0000247" id="M_dad_2_c" name="Deoxyadenosine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H13N5O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_dad_2_c">
@@ -11388,7 +11388,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_xdp_c" sboTerm="SBO:0000247" id="M_xdp_c" name="xdp[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_xdp_c" sboTerm="SBO:0000247" id="M_xdp_c" name="xdp[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H11N4O12P2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_xdp_c">
@@ -11552,7 +11552,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_ascb_L_e" sboTerm="SBO:0000247" id="M_ascb_L_e" name="L-Ascorbate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_ascb_L_e" sboTerm="SBO:0000247" id="M_ascb_L_e" name="L-Ascorbate" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H8O6"/>
       <species metaid="meta_M_ascb6p_c" sboTerm="SBO:0000247" id="M_ascb6p_c" name="L-ascorbate-6-phosphate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C6H7O9P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -11790,7 +11790,7 @@
       <species metaid="meta_M_pgp161_e" sboTerm="SBO:0000247" id="M_pgp161_e" name="Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C38H69O13P2"/>
       <species metaid="meta_M_pgp180_e" sboTerm="SBO:0000247" id="M_pgp180_e" name="Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C42H81O13P2"/>
       <species metaid="meta_M_pgp181_e" sboTerm="SBO:0000247" id="M_pgp181_e" name="Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C42H77O13P2"/>
-      <species metaid="meta_M_pser_L_e" sboTerm="SBO:0000247" id="M_pser_L_e" name="O-Phospho-L-serine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_pser_L_e" sboTerm="SBO:0000247" id="M_pser_L_e" name="O-Phospho-L-serine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H6NO6P"/>
       <species metaid="meta_M_ptrc_e" sboTerm="SBO:0000247" id="M_ptrc_e" name="Putrescine" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H12N2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -11836,7 +11836,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_thm_e" sboTerm="SBO:0000247" id="M_thm_e" name="Thiamin" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_thm_e" sboTerm="SBO:0000247" id="M_thm_e" name="Thiamin" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C12H17N4OS">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_thm_e">
@@ -11866,7 +11866,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_xylu_L_e" sboTerm="SBO:0000247" id="M_xylu_L_e" name="L-Xylulose" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_xylu_L_e" sboTerm="SBO:0000247" id="M_xylu_L_e" name="L-Xylulose" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O5"/>
       <species metaid="meta_M_trnaasn_c" sboTerm="SBO:0000247" id="M_trnaasn_c" name="tRNA(Asn)" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H17O10PR2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -12033,7 +12033,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_12dgr120_c" sboTerm="SBO:0000247" id="M_12dgr120_c" name="12dgr120[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_12dgr120_c" sboTerm="SBO:0000247" id="M_12dgr120_c" name="12dgr120[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C27H52O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_12dgr120_c">
@@ -12047,7 +12047,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_12dgr140_e" sboTerm="SBO:0000247" id="M_12dgr140_e" name="12dgr140[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_12dgr140_c" sboTerm="SBO:0000247" id="M_12dgr140_c" name="12dgr140[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_12dgr140_c" sboTerm="SBO:0000247" id="M_12dgr140_c" name="12dgr140[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C31H60O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_12dgr140_c">
@@ -12061,7 +12061,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_12dgr161_e" sboTerm="SBO:0000247" id="M_12dgr161_e" name="12dgr161[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_12dgr161_c" sboTerm="SBO:0000247" id="M_12dgr161_c" name="12dgr161[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_12dgr161_c" sboTerm="SBO:0000247" id="M_12dgr161_c" name="12dgr161[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C35H64O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_12dgr161_c">
@@ -12087,7 +12087,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_12dgr180_c" sboTerm="SBO:0000247" id="M_12dgr180_c" name="12dgr180[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_12dgr180_c" sboTerm="SBO:0000247" id="M_12dgr180_c" name="12dgr180[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C39H76O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_12dgr180_c">
@@ -12101,7 +12101,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_12dgr181_e" sboTerm="SBO:0000247" id="M_12dgr181_e" name="12dgr181[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_12dgr181_c" sboTerm="SBO:0000247" id="M_12dgr181_c" name="12dgr181[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_12dgr181_c" sboTerm="SBO:0000247" id="M_12dgr181_c" name="12dgr181[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C39H72O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_12dgr181_c">
@@ -12116,7 +12116,7 @@
       </species>
       <species metaid="meta_M_dattoo_c" sboTerm="SBO:0000247" id="M_dattoo_c" name="dattoo[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C9H18N5O14P3"/>
       <species metaid="meta_M_2agpe120_e" sboTerm="SBO:0000247" id="M_2agpe120_e" name="2agpe120[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_2agpe120_c" sboTerm="SBO:0000247" id="M_2agpe120_c" name="2agpe120[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2agpe120_c" sboTerm="SBO:0000247" id="M_2agpe120_c" name="2agpe120[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C17H36NO7P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2agpe120_c">
@@ -12130,7 +12130,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_2agpe141_e" sboTerm="SBO:0000247" id="M_2agpe141_e" name="2agpe141[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_2agpe141_c" sboTerm="SBO:0000247" id="M_2agpe141_c" name="2agpe141[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2agpe141_c" sboTerm="SBO:0000247" id="M_2agpe141_c" name="2agpe141[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C19H38NO7P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2agpe141_c">
@@ -12144,7 +12144,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_2agpe160_e" sboTerm="SBO:0000247" id="M_2agpe160_e" name="2agpe160[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_2agpe160_c" sboTerm="SBO:0000247" id="M_2agpe160_c" name="2agpe160[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2agpe160_c" sboTerm="SBO:0000247" id="M_2agpe160_c" name="2agpe160[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C21H44NO7P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2agpe160_c">
@@ -12159,7 +12159,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_2agpe161_e" sboTerm="SBO:0000247" id="M_2agpe161_e" name="2agpe161[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_2agpe161_c" sboTerm="SBO:0000247" id="M_2agpe161_c" name="2agpe161[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2agpe161_c" sboTerm="SBO:0000247" id="M_2agpe161_c" name="2agpe161[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C21H42NO7P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2agpe161_c">
@@ -12173,7 +12173,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_2agpe180_e" sboTerm="SBO:0000247" id="M_2agpe180_e" name="2agpe180[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_2agpe180_c" sboTerm="SBO:0000247" id="M_2agpe180_c" name="2agpe180[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2agpe180_c" sboTerm="SBO:0000247" id="M_2agpe180_c" name="2agpe180[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C23H48NO7P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2agpe180_c">
@@ -12187,7 +12187,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pe120_c" sboTerm="SBO:0000247" id="M_pe120_c" name="pe120[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pe120_c" sboTerm="SBO:0000247" id="M_pe120_c" name="pe120[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C29H58N1O8P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pe120_c">
@@ -12200,7 +12200,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pe141_c" sboTerm="SBO:0000247" id="M_pe141_c" name="pe141[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pe141_c" sboTerm="SBO:0000247" id="M_pe141_c" name="pe141[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C33H62N1O8P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pe141_c">
@@ -12213,7 +12213,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pe160_c" sboTerm="SBO:0000247" id="M_pe160_c" name="pe160[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pe160_c" sboTerm="SBO:0000247" id="M_pe160_c" name="pe160[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C37H74N1O8P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pe160_c">
@@ -12227,7 +12227,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pe161_c" sboTerm="SBO:0000247" id="M_pe161_c" name="pe161[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pe161_c" sboTerm="SBO:0000247" id="M_pe161_c" name="pe161[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C37H70N1O8P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pe161_c">
@@ -12240,7 +12240,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pe180_c" sboTerm="SBO:0000247" id="M_pe180_c" name="pe180[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pe180_c" sboTerm="SBO:0000247" id="M_pe180_c" name="pe180[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C41H82N1O8P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pe180_c">
@@ -12255,7 +12255,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_2agpg141_e" sboTerm="SBO:0000247" id="M_2agpg141_e" name="2agpg141[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_2agpg141_c" sboTerm="SBO:0000247" id="M_2agpg141_c" name="2agpg141[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2agpg141_c" sboTerm="SBO:0000247" id="M_2agpg141_c" name="2agpg141[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C20H38O9P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2agpg141_c">
@@ -12268,7 +12268,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pg141_c" sboTerm="SBO:0000247" id="M_pg141_c" name="pg141[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pg141_c" sboTerm="SBO:0000247" id="M_pg141_c" name="pg141[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C34H62O10P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pg141_c">
@@ -12386,7 +12386,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_oxadpcoa_c" sboTerm="SBO:0000247" id="M_oxadpcoa_c" name="oxadpcoa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_oxadpcoa_c" sboTerm="SBO:0000247" id="M_oxadpcoa_c" name="oxadpcoa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C27H37N7O20P3S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_oxadpcoa_c">
@@ -12401,7 +12401,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_LalaDgluMdap_e" sboTerm="SBO:0000247" id="M_LalaDgluMdap_e" name="LalaDgluMdap[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_LalaDgluMdap_e" sboTerm="SBO:0000247" id="M_LalaDgluMdap_e" name="LalaDgluMdap[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C15H25N4O8">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_LalaDgluMdap_e">
@@ -12414,7 +12414,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_LalaDgluMdap_c" sboTerm="SBO:0000247" id="M_LalaDgluMdap_c" name="LalaDgluMdap[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_LalaDgluMdap_c" sboTerm="SBO:0000247" id="M_LalaDgluMdap_c" name="LalaDgluMdap[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C15H25N4O8">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_LalaDgluMdap_c">
@@ -12487,7 +12487,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_4hbz_c" sboTerm="SBO:0000247" id="M_4hbz_c" name="4hbz[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_4hbz_c" sboTerm="SBO:0000247" id="M_4hbz_c" name="4hbz[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C7H5O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_4hbz_c">
@@ -12622,7 +12622,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_5dglcn_e" sboTerm="SBO:0000247" id="M_5dglcn_e" name="5dglcn[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_5dglcn_e" sboTerm="SBO:0000247" id="M_5dglcn_e" name="5dglcn[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H9O7">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_5dglcn_e">
@@ -12637,7 +12637,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_5dglcn_c" sboTerm="SBO:0000247" id="M_5dglcn_c" name="5dglcn[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_5dglcn_c" sboTerm="SBO:0000247" id="M_5dglcn_c" name="5dglcn[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H9O7">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_5dglcn_c">
@@ -12652,7 +12652,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_5drib_c" sboTerm="SBO:0000247" id="M_5drib_c" name="5drib[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_5drib_c" sboTerm="SBO:0000247" id="M_5drib_c" name="5drib[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_5drib_c">
@@ -12694,7 +12694,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_5mtr_e" sboTerm="SBO:0000247" id="M_5mtr_e" name="5mtr[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_5mtr_e" sboTerm="SBO:0000247" id="M_5mtr_e" name="5mtr[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H12O4S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_5mtr_e">
@@ -12709,7 +12709,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_5mtr_c" sboTerm="SBO:0000247" id="M_5mtr_c" name="5mtr[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_5mtr_c" sboTerm="SBO:0000247" id="M_5mtr_c" name="5mtr[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H12O4S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_5mtr_c">
@@ -12739,7 +12739,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_3ohcoa_c" sboTerm="SBO:0000247" id="M_3ohcoa_c" name="3ohcoa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_3ohcoa_c" sboTerm="SBO:0000247" id="M_3ohcoa_c" name="3ohcoa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C27H40N7O18P3S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_3ohcoa_c">
@@ -12754,7 +12754,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_unaga_c" sboTerm="SBO:0000247" id="M_unaga_c" name="unaga[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_unaga_c" sboTerm="SBO:0000247" id="M_unaga_c" name="unaga[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C63H103NO12P2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_unaga_c">
@@ -12787,7 +12787,7 @@
       </species>
       <species metaid="meta_M_5a4icam_c" sboTerm="SBO:0000247" id="M_5a4icam_c" name="5a4icam[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H6N4O"/>
       <species metaid="meta_M_anhgm3p_e" sboTerm="SBO:0000247" id="M_anhgm3p_e" name="anhgm3p[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_anhgm_e" sboTerm="SBO:0000247" id="M_anhgm_e" name="anhgm[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_anhgm_e" sboTerm="SBO:0000247" id="M_anhgm_e" name="anhgm[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C19H29N2O12">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_anhgm_e">
@@ -12852,7 +12852,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_4ahmmp_c" sboTerm="SBO:0000247" id="M_4ahmmp_c" name="4ahmmp[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_4ahmmp_c" sboTerm="SBO:0000247" id="M_4ahmmp_c" name="4ahmmp[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H9N3O">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_4ahmmp_c">
@@ -12882,7 +12882,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_meoh_c" sboTerm="SBO:0000247" id="M_meoh_c" name="meoh[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_meoh_c" sboTerm="SBO:0000247" id="M_meoh_c" name="meoh[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="CH4O1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_meoh_c">
@@ -13060,7 +13060,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_ppal_c" sboTerm="SBO:0000247" id="M_ppal_c" name="ppal[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_ppal_c" sboTerm="SBO:0000247" id="M_ppal_c" name="ppal[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H6O">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_ppal_c">
@@ -13105,7 +13105,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_btal_c" sboTerm="SBO:0000247" id="M_btal_c" name="btal[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_btal_c" sboTerm="SBO:0000247" id="M_btal_c" name="btal[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H8O">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_btal_c">
@@ -13393,7 +13393,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_aacald_c" sboTerm="SBO:0000247" id="M_aacald_c" name="aacald[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_aacald_c" sboTerm="SBO:0000247" id="M_aacald_c" name="aacald[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C2H6NO">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_aacald_c">
@@ -13438,7 +13438,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_but_c" sboTerm="SBO:0000247" id="M_but_c" name="but[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_but_c" sboTerm="SBO:0000247" id="M_but_c" name="but[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H7O2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_but_c">
@@ -13599,7 +13599,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_acetol_c" sboTerm="SBO:0000247" id="M_acetol_c" name="acetol[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_acetol_c" sboTerm="SBO:0000247" id="M_acetol_c" name="acetol[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H6O2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_acetol_c">
@@ -13615,7 +13615,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_12ppd_S_c" sboTerm="SBO:0000247" id="M_12ppd_S_c" name="12ppd_S[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_ap4a_c" sboTerm="SBO:0000247" id="M_ap4a_c" name="ap4a[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_ap4a_c" sboTerm="SBO:0000247" id="M_ap4a_c" name="ap4a[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C20H24N10O19P4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_ap4a_c">
@@ -13766,7 +13766,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_meoh_e" sboTerm="SBO:0000247" id="M_meoh_e" name="meoh[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_meoh_e" sboTerm="SBO:0000247" id="M_meoh_e" name="meoh[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="CH4O1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_meoh_e">
@@ -13811,7 +13811,7 @@
       </species>
       <species metaid="meta_M_btd_SS_c" sboTerm="SBO:0000247" id="M_btd_SS_c" name="btd_SS[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H10O2"/>
       <species metaid="meta_M_actn_S_c" sboTerm="SBO:0000247" id="M_actn_S_c" name="actn_S[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_2fe1s_c" sboTerm="SBO:0000247" id="M_2fe1s_c" name="2fe1s[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2fe1s_c" sboTerm="SBO:0000247" id="M_2fe1s_c" name="2fe1s[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="SFe2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2fe1s_c">
@@ -13824,7 +13824,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_butso3_e" sboTerm="SBO:0000247" id="M_butso3_e" name="butso3[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_butso3_e" sboTerm="SBO:0000247" id="M_butso3_e" name="butso3[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H9O3S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_butso3_e">
@@ -13837,7 +13837,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_butso3_c" sboTerm="SBO:0000247" id="M_butso3_c" name="butso3[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_butso3_c" sboTerm="SBO:0000247" id="M_butso3_c" name="butso3[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H9O3S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_butso3_c">
@@ -13850,7 +13850,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_but_e" sboTerm="SBO:0000247" id="M_but_e" name="but[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_but_e" sboTerm="SBO:0000247" id="M_but_e" name="but[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H7O2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_but_e">
@@ -13993,7 +13993,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cdigmp_c" sboTerm="SBO:0000247" id="M_cdigmp_c" name="cdigmp[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_cdigmp_c" sboTerm="SBO:0000247" id="M_cdigmp_c" name="cdigmp[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C20H22N10O14P2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_cdigmp_c">
@@ -14006,7 +14006,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_5pg35pg_c" sboTerm="SBO:0000247" id="M_5pg35pg_c" name="5pg35pg[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_5pg35pg_c" sboTerm="SBO:0000247" id="M_5pg35pg_c" name="5pg35pg[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C20H23N10O15P2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_5pg35pg_c">
@@ -14092,7 +14092,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_chol_e" sboTerm="SBO:0000247" id="M_chol_e" name="chol[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_chol_e" sboTerm="SBO:0000247" id="M_chol_e" name="chol[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H14NO">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_chol_e">
@@ -14107,7 +14107,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_chol_c" sboTerm="SBO:0000247" id="M_chol_c" name="chol[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_chol_c" sboTerm="SBO:0000247" id="M_chol_c" name="chol[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H14NO">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_chol_c">
@@ -14150,7 +14150,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cysi_L_c" sboTerm="SBO:0000247" id="M_cysi_L_c" name="cysi_L[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_cysi_L_c" sboTerm="SBO:0000247" id="M_cysi_L_c" name="cysi_L[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H12N2O4S2"/>
       <species metaid="meta_M_thcys_c" sboTerm="SBO:0000247" id="M_thcys_c" name="thcys[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO2S2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -14209,7 +14209,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_12dgr160_c" sboTerm="SBO:0000247" id="M_12dgr160_c" name="12dgr160[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_12dgr160_c" sboTerm="SBO:0000247" id="M_12dgr160_c" name="12dgr160[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C35H68O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_12dgr160_c">
@@ -14236,7 +14236,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_2ddglcn_e" sboTerm="SBO:0000247" id="M_2ddglcn_e" name="2ddglcn[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2ddglcn_e" sboTerm="SBO:0000247" id="M_2ddglcn_e" name="2ddglcn[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H9O6">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2ddglcn_e">
@@ -14251,7 +14251,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_2ddglcn_c" sboTerm="SBO:0000247" id="M_2ddglcn_c" name="2ddglcn[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2ddglcn_c" sboTerm="SBO:0000247" id="M_2ddglcn_c" name="2ddglcn[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H9O6">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2ddglcn_c">
@@ -14266,7 +14266,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_23dhb_c" sboTerm="SBO:0000247" id="M_23dhb_c" name="23dhb[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_23dhb_c" sboTerm="SBO:0000247" id="M_23dhb_c" name="23dhb[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C7H5O4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_23dhb_c">
@@ -14281,7 +14281,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_23dhba_c" sboTerm="SBO:0000247" id="M_23dhba_c" name="23dhba[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_23dhba_c" sboTerm="SBO:0000247" id="M_23dhba_c" name="23dhba[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C17H17N5O10P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_23dhba_c">
@@ -14296,7 +14296,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_23dhbzs_c" sboTerm="SBO:0000247" id="M_23dhbzs_c" name="23dhbzs[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_23dhbzs_c" sboTerm="SBO:0000247" id="M_23dhbzs_c" name="23dhbzs[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H10NO6">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_23dhbzs_c">
@@ -14311,7 +14311,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_dhmpt_c" sboTerm="SBO:0000247" id="M_dhmpt_c" name="dhmpt[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_dhmpt_c" sboTerm="SBO:0000247" id="M_dhmpt_c" name="dhmpt[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C9H13N5O4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_dhmpt_c">
@@ -14352,7 +14352,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_34dhpha_c" sboTerm="SBO:0000247" id="M_34dhpha_c" name="34dhpha[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_34dhpha_c" sboTerm="SBO:0000247" id="M_34dhpha_c" name="34dhpha[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C8H7O4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_34dhpha_c">
@@ -14442,7 +14442,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_2amsa_c" sboTerm="SBO:0000247" id="M_2amsa_c" name="2amsa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2amsa_c" sboTerm="SBO:0000247" id="M_2amsa_c" name="2amsa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H5NO3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2amsa_c">
@@ -14457,7 +14457,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_seramp_c" sboTerm="SBO:0000247" id="M_seramp_c" name="seramp[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_seramp_c" sboTerm="SBO:0000247" id="M_seramp_c" name="seramp[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C13H19N6O9P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_seramp_c">
@@ -14472,7 +14472,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_enter_c" sboTerm="SBO:0000247" id="M_enter_c" name="enter[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_enter_c" sboTerm="SBO:0000247" id="M_enter_c" name="enter[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C30H27N3O15">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_enter_c">
@@ -14487,7 +14487,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_feenter_c" sboTerm="SBO:0000247" id="M_feenter_c" name="feenter[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_feenter_c" sboTerm="SBO:0000247" id="M_feenter_c" name="feenter[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C30H27FeN3O15">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_feenter_c">
@@ -14561,7 +14561,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_actn_S_e" sboTerm="SBO:0000247" id="M_actn_S_e" name="actn_S[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_enter_e" sboTerm="SBO:0000247" id="M_enter_e" name="enter[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_enter_e" sboTerm="SBO:0000247" id="M_enter_e" name="enter[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C30H27N3O15">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_enter_e">
@@ -14621,7 +14621,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_lcts_e" sboTerm="SBO:0000247" id="M_lcts_e" name="lcts[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_lcts_e" sboTerm="SBO:0000247" id="M_lcts_e" name="lcts[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C12H22O11">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_lcts_e">
@@ -14840,7 +14840,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_sulfac_e" sboTerm="SBO:0000247" id="M_sulfac_e" name="sulfac[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_sulfac_e" sboTerm="SBO:0000247" id="M_sulfac_e" name="sulfac[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C2H2O5S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_sulfac_e">
@@ -14912,7 +14912,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_urate_e" sboTerm="SBO:0000247" id="M_urate_e" name="urate[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_urate_e" sboTerm="SBO:0000247" id="M_urate_e" name="urate[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H4N4O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_urate_e">
@@ -14942,7 +14942,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_forcoa_c" sboTerm="SBO:0000247" id="M_forcoa_c" name="forcoa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_forcoa_c" sboTerm="SBO:0000247" id="M_forcoa_c" name="forcoa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C22H32N7O17P3S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_forcoa_c">
@@ -14972,7 +14972,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_feenter_e" sboTerm="SBO:0000247" id="M_feenter_e" name="feenter[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_feenter_e" sboTerm="SBO:0000247" id="M_feenter_e" name="feenter[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C30H27FeN3O15">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_feenter_e">
@@ -15195,7 +15195,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_oxa_c" sboTerm="SBO:0000247" id="M_oxa_c" name="oxa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_oxa_c" sboTerm="SBO:0000247" id="M_oxa_c" name="oxa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C2O4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_oxa_c">
@@ -15314,7 +15314,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_hg2_c" sboTerm="SBO:0000247" id="M_hg2_c" name="hg2[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_hg2_c" sboTerm="SBO:0000247" id="M_hg2_c" name="hg2[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="Hg">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_hg2_c">
@@ -15329,7 +15329,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_hg2_e" sboTerm="SBO:0000247" id="M_hg2_e" name="hg2[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_hg2_e" sboTerm="SBO:0000247" id="M_hg2_e" name="hg2[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="Hg">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_hg2_e">
@@ -15420,7 +15420,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_iscssh_c" sboTerm="SBO:0000247" id="M_iscssh_c" name="iscssh[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_iscssh_c" sboTerm="SBO:0000247" id="M_iscssh_c" name="iscssh[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="HS2R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_iscssh_c">
@@ -15433,7 +15433,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_iscu_c" sboTerm="SBO:0000247" id="M_iscu_c" name="iscu[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_iscu_c" sboTerm="SBO:0000247" id="M_iscu_c" name="iscu[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H8O2S6R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_iscu_c">
@@ -15446,7 +15446,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_iscs_c" sboTerm="SBO:0000247" id="M_iscs_c" name="iscs[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_iscs_c" sboTerm="SBO:0000247" id="M_iscs_c" name="iscs[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="HSR">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_iscs_c">
@@ -15459,7 +15459,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_iscu_2fe2s_c" sboTerm="SBO:0000247" id="M_iscu_2fe2s_c" name="iscu_2fe2s[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_iscu_2fe2s_c" sboTerm="SBO:0000247" id="M_iscu_2fe2s_c" name="iscu_2fe2s[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H4O2S8Fe2R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_iscu_2fe2s_c">
@@ -15472,7 +15472,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_iscu_2fe2s2_c" sboTerm="SBO:0000247" id="M_iscu_2fe2s2_c" name="iscu_2fe2s2[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_iscu_2fe2s2_c" sboTerm="SBO:0000247" id="M_iscu_2fe2s2_c" name="iscu_2fe2s2[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="O2S10Fe4R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_iscu_2fe2s2_c">
@@ -15485,7 +15485,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_iscu_4fe4s_c" sboTerm="SBO:0000247" id="M_iscu_4fe4s_c" name="iscu_4fe4s[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_iscu_4fe4s_c" sboTerm="SBO:0000247" id="M_iscu_4fe4s_c" name="iscu_4fe4s[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H4O2S10Fe4R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_iscu_4fe4s_c">
@@ -15528,8 +15528,8 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_lald_L_c" sboTerm="SBO:0000247" id="M_lald_L_c" name="lald_L[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_lcts_c" sboTerm="SBO:0000247" id="M_lcts_c" name="lcts[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_lald_L_c" sboTerm="SBO:0000247" id="M_lald_L_c" name="lald_L[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H6O2"/>
+      <species metaid="meta_M_lcts_c" sboTerm="SBO:0000247" id="M_lcts_c" name="lcts[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C12H22O11">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_lcts_c">
@@ -15548,7 +15548,7 @@
       <species metaid="meta_M_1odec11eg3p_e" sboTerm="SBO:0000247" id="M_1odec11eg3p_e" name="1odec11eg3p[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C21H39O7P1"/>
       <species metaid="meta_M_1agpe140_e" sboTerm="SBO:0000247" id="M_1agpe140_e" name="1agpe140[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species metaid="meta_M_malac_c" sboTerm="SBO:0000247" id="M_malac_c" name="malac[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_mana_c" sboTerm="SBO:0000247" id="M_mana_c" name="mana[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_mana_c" sboTerm="SBO:0000247" id="M_mana_c" name="mana[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H11O7">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_mana_c">
@@ -15674,7 +15674,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_metsox_R_L_c" sboTerm="SBO:0000247" id="M_metsox_R_L_c" name="metsox_R_L[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_metsox_R_L_c" sboTerm="SBO:0000247" id="M_metsox_R_L_c" name="metsox_R_L[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO3S"/>
       <species metaid="meta_M_mi4p_D_c" sboTerm="SBO:0000247" id="M_mi4p_D_c" name="mi4p_D[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species metaid="meta_M_murein4p3p_e" sboTerm="SBO:0000247" id="M_murein4p3p_e" name="murein4p3p[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-4" fbc:chemicalFormula="C71H109N13O39">
         <annotation>
@@ -15956,7 +15956,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_oxalcoa_c" sboTerm="SBO:0000247" id="M_oxalcoa_c" name="oxalcoa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_oxalcoa_c" sboTerm="SBO:0000247" id="M_oxalcoa_c" name="oxalcoa[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C23H31N7O19P3S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_oxalcoa_c">
@@ -16045,7 +16045,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_pe120_e" sboTerm="SBO:0000247" id="M_pe120_e" name="pe120[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_pe140_c" sboTerm="SBO:0000247" id="M_pe140_c" name="pe140[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pe140_c" sboTerm="SBO:0000247" id="M_pe140_c" name="pe140[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C33H66N1O8P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pe140_c">
@@ -16063,7 +16063,7 @@
       <species metaid="meta_M_pe160_e" sboTerm="SBO:0000247" id="M_pe160_e" name="pe160[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species metaid="meta_M_pe161_e" sboTerm="SBO:0000247" id="M_pe161_e" name="pe161[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species metaid="meta_M_pe180_e" sboTerm="SBO:0000247" id="M_pe180_e" name="pe180[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_pg120_c" sboTerm="SBO:0000247" id="M_pg120_c" name="pg120[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pg120_c" sboTerm="SBO:0000247" id="M_pg120_c" name="pg120[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C30H58O10P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pg120_c">
@@ -16076,7 +16076,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pg140_c" sboTerm="SBO:0000247" id="M_pg140_c" name="pg140[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pg140_c" sboTerm="SBO:0000247" id="M_pg140_c" name="pg140[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C34H66O10P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pg140_c">
@@ -16091,7 +16091,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_pg141_e" sboTerm="SBO:0000247" id="M_pg141_e" name="pg141[e]" compartment="e" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species metaid="meta_M_pg160_c" sboTerm="SBO:0000247" id="M_pg160_c" name="pg160[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pg160_c" sboTerm="SBO:0000247" id="M_pg160_c" name="pg160[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C38H74O10P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pg160_c">
@@ -16105,7 +16105,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pg161_c" sboTerm="SBO:0000247" id="M_pg161_c" name="pg161[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pg161_c" sboTerm="SBO:0000247" id="M_pg161_c" name="pg161[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C38H70O10P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pg161_c">
@@ -16118,7 +16118,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pg180_c" sboTerm="SBO:0000247" id="M_pg180_c" name="pg180[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pg180_c" sboTerm="SBO:0000247" id="M_pg180_c" name="pg180[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C42H82O10P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pg180_c">
@@ -16131,7 +16131,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_pg181_c" sboTerm="SBO:0000247" id="M_pg181_c" name="pg181[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_pg181_c" sboTerm="SBO:0000247" id="M_pg181_c" name="pg181[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C42H78O10P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_pg181_c">
@@ -16216,7 +16216,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_r1p_c" sboTerm="SBO:0000247" id="M_r1p_c" name="r1p[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_r1p_c" sboTerm="SBO:0000247" id="M_r1p_c" name="r1p[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H9O8P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_r1p_c">
@@ -16261,7 +16261,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_ps140_c" sboTerm="SBO:0000247" id="M_ps140_c" name="ps140[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_ps140_c" sboTerm="SBO:0000247" id="M_ps140_c" name="ps140[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C34H65N1O10P1">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_ps140_c">
@@ -16274,7 +16274,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_2dr1p_c" sboTerm="SBO:0000247" id="M_2dr1p_c" name="2dr1p[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_2dr1p_c" sboTerm="SBO:0000247" id="M_2dr1p_c" name="2dr1p[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H9O7P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_2dr1p_c">
@@ -16361,7 +16361,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_2abut_c" sboTerm="SBO:0000247" id="M_2abut_c" name="2abut[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H9NO2"/>
-      <species metaid="meta_M_sufbcd_2fe2s_c" sboTerm="SBO:0000247" id="M_sufbcd_2fe2s_c" name="sufbcd_2fe2s[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_sufbcd_2fe2s_c" sboTerm="SBO:0000247" id="M_sufbcd_2fe2s_c" name="sufbcd_2fe2s[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H4O2S8Fe2R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_sufbcd_2fe2s_c">
@@ -16374,7 +16374,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_sufbcd_c" sboTerm="SBO:0000247" id="M_sufbcd_c" name="sufbcd[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_sufbcd_c" sboTerm="SBO:0000247" id="M_sufbcd_c" name="sufbcd[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H8O2S6R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_sufbcd_c">
@@ -16387,7 +16387,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_sufbcd_2fe2s2_c" sboTerm="SBO:0000247" id="M_sufbcd_2fe2s2_c" name="sufbcd_2fe2s2[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_sufbcd_2fe2s2_c" sboTerm="SBO:0000247" id="M_sufbcd_2fe2s2_c" name="sufbcd_2fe2s2[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="O2S10Fe4R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_sufbcd_2fe2s2_c">
@@ -16400,7 +16400,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_sufbcd_4fe4s_c" sboTerm="SBO:0000247" id="M_sufbcd_4fe4s_c" name="sufbcd_4fe4s[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_sufbcd_4fe4s_c" sboTerm="SBO:0000247" id="M_sufbcd_4fe4s_c" name="sufbcd_4fe4s[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H4O2S10Fe4R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_sufbcd_4fe4s_c">
@@ -16429,7 +16429,7 @@
         </annotation>
       </species>
       <species metaid="meta_M_cbshclin_c" sboTerm="SBO:0000247" id="M_cbshclin_c" name="cbshclin[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C42H44CoN4O16"/>
-      <species metaid="meta_M_sufse_c" sboTerm="SBO:0000247" id="M_sufse_c" name="sufse[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_sufse_c" sboTerm="SBO:0000247" id="M_sufse_c" name="sufse[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="HSR">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_sufse_c">
@@ -16442,7 +16442,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_sufsesh_c" sboTerm="SBO:0000247" id="M_sufsesh_c" name="sufsesh[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_sufsesh_c" sboTerm="SBO:0000247" id="M_sufsesh_c" name="sufsesh[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="HS2R">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_sufsesh_c">
@@ -16561,7 +16561,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_sheme_c" sboTerm="SBO:0000247" id="M_sheme_c" name="sheme[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_sheme_c" sboTerm="SBO:0000247" id="M_sheme_c" name="sheme[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C42H36FeN4O16">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_sheme_c">
@@ -16606,7 +16606,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_sulfac_c" sboTerm="SBO:0000247" id="M_sulfac_c" name="sulfac[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0">
+      <species metaid="meta_M_sulfac_c" sboTerm="SBO:0000247" id="M_sulfac_c" name="sulfac[c]" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C2H2O5S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_M_sulfac_c">
