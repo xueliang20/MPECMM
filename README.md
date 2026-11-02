@@ -3,7 +3,7 @@
 This repository provides the genome-scale metabolic model **iCG875**, its
 enzyme-constrained counterpart **eciCG875**, and **MPECMM**, the
 **multi-enzyme-constrained metabolic model construction method**
-(多重酶约束模型构建方法) used to build, calibrate and analyze the two models.
+ used to build, calibrate and analyze the two models.
 
 Both models are distributed in **SBML Level 3 Version 1** with the **fbc**
 (Flux Balance Constraints) package and can be opened directly by COBRA-based
@@ -17,7 +17,7 @@ tools (`cobrapy`, the COBRA Toolbox, memote, etc.).
 |---|---|---|
 | `iCG875` | Genome-scale metabolic model (GEM) | Updated base GEM reconstructed for the studied strain; defines the metabolic reaction network, stoichiometry and flux bounds. |
 | `eciCG875` | Enzyme-constrained GEM (ecModel) | Enzyme-constrained version of `iCG875`, integrating enzyme kinetic (kcat) and enzyme-usage (proteome allocation) constraints on top of the stoichiometric network. |
-| `MPECMM` | Construction method / workflow | Multi-enzyme-constrained metabolic model construction method (多重酶约束模型构建方法) used to build, calibrate and analyze the models above. |
+| `MPECMM` | Construction method / workflow | Multi-enzyme-constrained metabolic model construction method used to build, calibrate and analyze the models above. |
 
 ---
 
@@ -136,4 +136,3 @@ in this repository or contact the corresponding author.
 
 ---
 
-内容由 AI 生成
